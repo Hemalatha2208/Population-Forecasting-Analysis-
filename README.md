@@ -6,4 +6,4 @@ Story Public link             https://public.tableau.com/views/Story_16825836135
 
 Video demonstration link      https://drive.google.com/file/d/1uwRfsPYVJ1g5dsW03bD_HKuHYuBgp182/view?usp=sharing
 
-Project report PPT link       
+Project report PDF link       https://drive.google.com/file/d/1xcb3vMAIGQlUlz6NeUMS5Z_mqTMU_009/view?usp=sharing      
